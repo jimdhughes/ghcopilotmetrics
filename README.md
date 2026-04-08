@@ -7,8 +7,8 @@ https://docs.github.com/en/enterprise-cloud@latest/rest/copilot/copilot-usage-me
 
 ## Environment variables
 create a .env or set the following environment variables
-
+```bash
 BEARER_TOKEN=""
 ENTERPRISE_NAME=""
-
+```
 Note: bearer token needs to have appropriate permissions defined in the docs
